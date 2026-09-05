@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/YOUR_USERNAME">Your Name</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/maruf-donothing">Maruf</a></h1>
 <h3 align="center">A curious software developer who ships things and occasionally breaks production 🚀</h3>
 
 <p align="center">
