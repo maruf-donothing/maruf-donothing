@@ -2,7 +2,7 @@
 <h3 align="center">A curious software developer who ships things and occasionally breaks production 🚀</h3>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=console.log(%22Hello%2C+World!%22)%3B;Turning+coffee+into+code+%E2%98%95;Always+learning+something+new;Open+to+cool+collaborations+%F0%9F%A4%9D" alt="Typing SVG](https://jbuffyangel.tumblr.com/post/181892103588/who-all-do-you-ship-on-game-of-thrones-and-how-do)" />
+  <img src="https://jbuffyangel.tumblr.com/post/181892103588/who-all-do-you-ship-on-game-of-thrones-and-how-do" />
 </p>
 
 <p align="center">
